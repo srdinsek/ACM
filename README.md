@@ -1,7 +1,7 @@
 # Visje-racunske-metode
 
-This are projects for the class Višje računske metode (Advanced computational methods)
-Unfortunaly they are in slovene. A fast summary:
+This are projects for the class Višje računske metode (Advanced computational methods).
+Unfortunately they are in slovene. A fast summary:
 1. Time evolution of Schrödinger equation.
 2. Eigenvalue problem for a perturbed truncated hamiltonian. Lanczos algorithm.
 3. Trotter-Suzuki and Split step methods. Comparison. Poincaré maps and egodicity.
